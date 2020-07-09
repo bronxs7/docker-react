@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Kuylah bakar!
+          This is update from feature branch
         </a>
       </header>
     </div>
