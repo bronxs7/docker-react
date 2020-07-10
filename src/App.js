@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is update from feature branch
+          Hello weekend!
         </a>
       </header>
     </div>
