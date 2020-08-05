@@ -19,5 +19,5 @@ deploy:
   on:
     branch: master
 
-  access_key_id: "AKIAXGT7QQIGWXLPAPER"
-  secret_access_key: "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"
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
